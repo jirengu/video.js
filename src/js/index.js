@@ -1,3 +1,3 @@
 import videojs from './video';
-import '@videojs/http-streaming';
+import '@xdml/http-streaming';
 export default videojs;
